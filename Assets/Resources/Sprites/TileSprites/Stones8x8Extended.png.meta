@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: dd92c8073b0243e488e5cd8f2e72fd41
+timeCreated: 1519237665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stones8x8Extended_0
+    21300002: Stones8x8Extended_1
+    21300004: Stones8x8Extended_2
+    21300006: Stones8x8Extended_3
+    21300008: Stones8x8Extended_4
+    21300010: Stones8x8Extended_5
+    21300012: Stones8x8Extended_6
+    21300014: Stones8x8Extended_7
+    21300016: Stones8x8Extended_8
+    21300018: Stones8x8Extended_9
+    21300020: Stones8x8Extended_10
+    21300022: Stones8x8Extended_11
+    21300024: Stones8x8Extended_12
+    21300026: Stones8x8Extended_13
+    21300028: Stones8x8Extended_14
+    21300030: Stones8x8Extended_15
+    21300032: Stones8x8Extended_16
+    21300034: Stones8x8Extended_17
+    21300036: Stones8x8Extended_18
+    21300038: Stones8x8Extended_19
+    21300040: Stones8x8Extended_20
+    21300042: Stones8x8Extended_21
+    21300044: Stones8x8Extended_22
+    21300046: Stones8x8Extended_23
+    21300048: Stones8x8Extended_24
+    21300050: Stones8x8Extended_25
+    21300052: Stones8x8Extended_26
+    21300054: Stones8x8Extended_27
+    21300056: Stones8x8Extended_28
+    21300058: Stones8x8Extended_29
+    21300060: Stones8x8Extended_30
+    21300062: Stones8x8Extended_31
+    21300064: Stones8x8Extended_32
+    21300066: Stones8x8Extended_33
+    21300068: Stones8x8Extended_34
+    21300070: Stones8x8Extended_35
+    21300072: Stones8x8Extended_36
+    21300074: Stones8x8Extended_37
+    21300076: Stones8x8Extended_38
+    21300078: Stones8x8Extended_39
+    21300080: Stones8x8Extended_40
+    21300082: Stones8x8Extended_41
+    21300084: Stones8x8Extended_42
+    21300086: Stones8x8Extended_43
+    21300088: Stones8x8Extended_44
+    21300090: Stones8x8Extended_45
+    21300092: Stones8x8Extended_46
+    21300094: Stones8x8Extended_47
+    21300096: Stones8x8Extended_48
+    21300098: Stones8x8Extended_49
+    21300100: Stones8x8Extended_50
+    21300102: Stones8x8Extended_51
+    21300104: Stones8x8Extended_52
+    21300106: Stones8x8Extended_53
+    21300108: Stones8x8Extended_54
+    21300110: Stones8x8Extended_55
+    21300112: Stones8x8Extended_56
+    21300114: Stones8x8Extended_57
+    21300116: Stones8x8Extended_58
+    21300118: Stones8x8Extended_59
+    21300120: Stones8x8Extended_60
+    21300122: Stones8x8Extended_61
+    21300124: Stones8x8Extended_62
+    21300126: Stones8x8Extended_63
+    21300128: Stones8x8Extended_64
+    21300130: Stones8x8Extended_65
+    21300132: Stones8x8Extended_66
+    21300134: Stones8x8Extended_67
+    21300136: Stones8x8Extended_68
+    21300138: Stones8x8Extended_69
+    21300140: Stones8x8Extended_70
+    21300142: Stones8x8Extended_71
+    21300144: Stones8x8Extended_72
+    21300146: Stones8x8Extended_73
+    21300148: Stones8x8Extended_74
+    21300150: Stones8x8Extended_75
+    21300152: Stones8x8Extended_76
+    21300154: Stones8x8Extended_77
+    21300156: Stones8x8Extended_78
+    21300158: Stones8x8Extended_79
+    21300160: Stones8x8Extended_80
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stones8x8Extended_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.999985}
+        - {x: 96, y: -95.999985}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_25
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.875015}
+        - {x: 96, y: -95.875015}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_32
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.75001}
+        - {x: 96, y: -95.75001}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_42
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_43
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_50
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_52
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_59
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_60
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_61
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.87499, y: 96}
+        - {x: -95.87499, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.75001, y: 96}
+        - {x: -95.75001, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_68
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.875015, y: 96}
+        - {x: -95.875015, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.999985, y: 96}
+        - {x: -95.999985, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stones8x8Extended_70
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -95.87499}
+        - {x: 96, y: -95.87499}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

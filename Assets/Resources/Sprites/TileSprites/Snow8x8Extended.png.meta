@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 1c2471322482da6468dc58bbf6a97db9
+timeCreated: 1517835150
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Snow8x8_0
+    21300002: Snow8x8_1
+    21300004: Snow8x8_2
+    21300006: Snow8x8_3
+    21300008: Snow8x8_4
+    21300010: Snow8x8_5
+    21300012: Snow8x8_6
+    21300014: Snow8x8_7
+    21300016: Snow8x8_9
+    21300018: Snow8x8_10
+    21300020: Snow8x8_11
+    21300022: Snow8x8_12
+    21300024: Snow8x8_13
+    21300026: Snow8x8_14
+    21300028: Snow8x8_15
+    21300030: Snow8x8_16
+    21300032: Snow8x8_18
+    21300034: Snow8x8_19
+    21300036: Snow8x8_20
+    21300038: Snow8x8_21
+    21300040: Snow8x8_22
+    21300042: Snow8x8_23
+    21300044: Snow8x8_24
+    21300046: Snow8x8_25
+    21300048: Snow8x8_27
+    21300050: Snow8x8_28
+    21300052: Snow8x8_29
+    21300054: Snow8x8_30
+    21300056: Snow8x8_31
+    21300058: Snow8x8_32
+    21300060: Snow8x8_33
+    21300062: Snow8x8_34
+    21300064: Snow8x8_36
+    21300066: Snow8x8_37
+    21300068: Snow8x8_38
+    21300070: Snow8x8_39
+    21300072: Snow8x8_40
+    21300074: Snow8x8_41
+    21300076: Snow8x8_42
+    21300078: Snow8x8_43
+    21300080: Snow8x8_45
+    21300082: Snow8x8_46
+    21300084: Snow8x8_47
+    21300086: Snow8x8_48
+    21300088: Snow8x8_49
+    21300090: Snow8x8_50
+    21300092: Snow8x8_51
+    21300094: Snow8x8_52
+    21300096: Snow8x8_54
+    21300098: Snow8x8_55
+    21300100: Snow8x8_56
+    21300102: Snow8x8_57
+    21300104: Snow8x8_58
+    21300106: Snow8x8_59
+    21300108: Snow8x8_60
+    21300110: Snow8x8_61
+    21300112: Snow8x8_63
+    21300114: Snow8x8_64
+    21300116: Snow8x8_65
+    21300118: Snow8x8_66
+    21300120: Snow8x8_67
+    21300122: Snow8x8_68
+    21300124: Snow8x8_69
+    21300126: Snow8x8_70
+    21300128: Snow8x8Extended_0
+    21300130: Snow8x8Extended_1
+    21300132: Snow8x8Extended_2
+    21300134: Snow8x8Extended_3
+    21300136: Snow8x8Extended_4
+    21300138: Snow8x8Extended_5
+    21300140: Snow8x8Extended_6
+    21300142: Snow8x8Extended_7
+    21300144: Snow8x8Extended_9
+    21300146: Snow8x8Extended_10
+    21300148: Snow8x8Extended_11
+    21300150: Snow8x8Extended_12
+    21300152: Snow8x8Extended_13
+    21300154: Snow8x8Extended_14
+    21300156: Snow8x8Extended_15
+    21300158: Snow8x8Extended_16
+    21300160: Snow8x8Extended_18
+    21300162: Snow8x8Extended_19
+    21300164: Snow8x8Extended_20
+    21300166: Snow8x8Extended_21
+    21300168: Snow8x8Extended_22
+    21300170: Snow8x8Extended_23
+    21300172: Snow8x8Extended_24
+    21300174: Snow8x8Extended_25
+    21300176: Snow8x8Extended_27
+    21300178: Snow8x8Extended_28
+    21300180: Snow8x8Extended_29
+    21300182: Snow8x8Extended_30
+    21300184: Snow8x8Extended_31
+    21300186: Snow8x8Extended_32
+    21300188: Snow8x8Extended_33
+    21300190: Snow8x8Extended_34
+    21300192: Snow8x8Extended_36
+    21300194: Snow8x8Extended_37
+    21300196: Snow8x8Extended_38
+    21300198: Snow8x8Extended_39
+    21300200: Snow8x8Extended_40
+    21300202: Snow8x8Extended_41
+    21300204: Snow8x8Extended_42
+    21300206: Snow8x8Extended_43
+    21300208: Snow8x8Extended_45
+    21300210: Snow8x8Extended_46
+    21300212: Snow8x8Extended_47
+    21300214: Snow8x8Extended_48
+    21300216: Snow8x8Extended_49
+    21300218: Snow8x8Extended_50
+    21300220: Snow8x8Extended_51
+    21300222: Snow8x8Extended_52
+    21300224: Snow8x8Extended_54
+    21300226: Snow8x8Extended_55
+    21300228: Snow8x8Extended_56
+    21300230: Snow8x8Extended_57
+    21300232: Snow8x8Extended_58
+    21300234: Snow8x8Extended_59
+    21300236: Snow8x8Extended_60
+    21300238: Snow8x8Extended_61
+    21300240: Snow8x8Extended_63
+    21300242: Snow8x8Extended_64
+    21300244: Snow8x8Extended_65
+    21300246: Snow8x8Extended_66
+    21300248: Snow8x8Extended_67
+    21300250: Snow8x8Extended_68
+    21300252: Snow8x8Extended_69
+    21300254: Snow8x8Extended_70
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snow8x8Extended_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 865
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_25
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_32
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_42
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_43
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_50
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_52
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_59
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_60
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_61
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_68
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snow8x8Extended_70
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 98}
+        - {x: -98, y: -98}
+        - {x: 98, y: -98}
+        - {x: 98, y: 98}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

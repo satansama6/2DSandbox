@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: f4d1dbf90591b74428ab42c3778fd2f1
+timeCreated: 1519236631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grounds8x8Extended_11
+    21300002: Grounds8x8Extended_12
+    21300004: Grounds8x8Extended_13
+    21300006: Grounds8x8Extended_14
+    21300008: Grounds8x8Extended_15
+    21300010: Grounds8x8Extended_16
+    21300012: Grounds8x8Extended_17
+    21300014: Grounds8x8Extended_18
+    21300016: Grounds8x8Extended_21
+    21300018: Grounds8x8Extended_22
+    21300020: Grounds8x8Extended_23
+    21300022: Grounds8x8Extended_24
+    21300024: Grounds8x8Extended_25
+    21300026: Grounds8x8Extended_26
+    21300028: Grounds8x8Extended_27
+    21300030: Grounds8x8Extended_28
+    21300032: Grounds8x8Extended_31
+    21300034: Grounds8x8Extended_32
+    21300036: Grounds8x8Extended_33
+    21300038: Grounds8x8Extended_34
+    21300040: Grounds8x8Extended_35
+    21300042: Grounds8x8Extended_36
+    21300044: Grounds8x8Extended_37
+    21300046: Grounds8x8Extended_38
+    21300048: Grounds8x8Extended_41
+    21300050: Grounds8x8Extended_42
+    21300052: Grounds8x8Extended_43
+    21300054: Grounds8x8Extended_44
+    21300056: Grounds8x8Extended_45
+    21300058: Grounds8x8Extended_46
+    21300060: Grounds8x8Extended_47
+    21300062: Grounds8x8Extended_48
+    21300064: Grounds8x8Extended_51
+    21300066: Grounds8x8Extended_52
+    21300068: Grounds8x8Extended_53
+    21300070: Grounds8x8Extended_54
+    21300072: Grounds8x8Extended_55
+    21300074: Grounds8x8Extended_56
+    21300076: Grounds8x8Extended_57
+    21300078: Grounds8x8Extended_58
+    21300080: Grounds8x8Extended_61
+    21300082: Grounds8x8Extended_62
+    21300084: Grounds8x8Extended_63
+    21300086: Grounds8x8Extended_64
+    21300088: Grounds8x8Extended_65
+    21300090: Grounds8x8Extended_66
+    21300092: Grounds8x8Extended_67
+    21300094: Grounds8x8Extended_68
+    21300096: Grounds8x8Extended_71
+    21300098: Grounds8x8Extended_72
+    21300100: Grounds8x8Extended_73
+    21300102: Grounds8x8Extended_74
+    21300104: Grounds8x8Extended_75
+    21300106: Grounds8x8Extended_76
+    21300108: Grounds8x8Extended_77
+    21300110: Grounds8x8Extended_78
+    21300112: Grounds8x8Extended_81
+    21300114: Grounds8x8Extended_82
+    21300116: Grounds8x8Extended_83
+    21300118: Grounds8x8Extended_84
+    21300120: Grounds8x8Extended_85
+    21300122: Grounds8x8Extended_86
+    21300124: Grounds8x8Extended_87
+    21300126: Grounds8x8Extended_88
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grounds8x8Extended_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_18
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 992
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_26
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 864
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_35
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_38
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 736
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 96}
+        - {x: -96, y: -96}
+        - {x: 96, y: -96}
+        - {x: 96, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_48
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_55
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_57
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_58
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 480
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_65
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_66
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_67
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_68
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 352
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_73
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_75
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_76
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_77
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_78
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_85
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_86
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_87
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Grounds8x8Extended_88
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 96
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
