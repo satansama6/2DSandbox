@@ -64,10 +64,7 @@ public class InventoryPanel : Inventory
   {
     ////TESTING ONLY
 
-    AddItem(TileType.WaterMachineCore, 1);
-    AddItem(TileType.WaterTank, 1);
-    AddItem(TileType.WaterTank, 1);
-    AddItem(TileType.WaterTank, 1);
+    AddItem(TileType.QuarryCore, 1);
     AddItem(TileType.WaterTank, 1);
 
     AddItem(TileType.ManualLever, 1);

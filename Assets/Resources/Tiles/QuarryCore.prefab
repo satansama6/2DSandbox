@@ -103,10 +103,11 @@ MonoBehaviour:
   isConnectable: 0
   itemDrop: 0b000000
   inventory: {fileID: 0}
-  isCoreless: 1
   core: {fileID: 0}
-  allowedCores: 
+  allowedTypes: 0c0000000a000000
+  machineBlocks: []
   range: 10
+  direction: -1
 --- !u!212 &212508852363431540
 SpriteRenderer:
   m_ObjectHideFlags: 1

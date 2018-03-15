@@ -16,34 +16,35 @@ public class WaterMachineCore : MachineBlock
 
   public override void Interact()
   {
-    // TODO: Do it when you put items in the machine slot
-    if (dirtSlot.ItemGO != null)
-    {
-      dirtCount = dirtSlot.Item.itemCount;
-
-      dirtPercentage += 0.5f;
-
-      if (dirtPercentage >= 100)
+    if (dirtSlot != null)
+      // TODO: Do it when you put items in the machine slot
+      if (dirtSlot.ItemGO != null)
       {
-        dirtPercentage = 0;
-        dirtCount--;
-        dirtSlot.UpdateItemCount(-1);
-        sandSlot.AddItem(TileType.Sand, 1);
-      }
+        dirtCount = dirtSlot.Item.itemCount;
 
-      foreach (MachineBlock block in machineBlocks)
-      {
-        WaterTank _waterTank = block.GetComponent<WaterTank>();
-        if (_waterTank != null)
+        dirtPercentage += 0.5f;
+
+        if (dirtPercentage >= 100)
         {
-          if (_waterTank.AddWater(0.1f))
+          dirtPercentage = 0;
+          dirtCount--;
+          dirtSlot.UpdateItemCount(-1);
+          sandSlot.AddItem(TileType.Sand, 1);
+        }
+
+        foreach (MachineBlock block in machineBlocks)
+        {
+          WaterTank _waterTank = block.GetComponent<WaterTank>();
+          if (_waterTank != null)
           {
-            return;
+            if (_waterTank.AddWater(0.1f))
+            {
+              return;
+            }
           }
         }
+        Debug.LogError("No water tank found!");
       }
-      Debug.LogError("No water tank found!");
-    }
   }
 
   public override void Place()

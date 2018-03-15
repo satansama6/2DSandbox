@@ -9,6 +9,18 @@ namespace Terrain.Data
   {
     public TileType type;
 
+    public Sprite[] tileVisual;
+
+    public int durability;
+
+    public bool isBreakable;
+
+    public bool isMaskable;
+
+    public bool isConnectable;
+
+    public List<TileType> itemDrop = new List<TileType>();
+
     public TileData(TileType type)
     {
       this.type = type;

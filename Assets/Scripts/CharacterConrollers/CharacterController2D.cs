@@ -144,8 +144,13 @@ public class CharacterController2D : PhysicsObject
   {
     // If we have a tile with IInteract interface at the characters position then we call the interact function on it.
     Vector2 _characterPosition = new Vector2(transform.position.x, transform.position.y);
-    IInteractable _tileToInteract = WorldLoader.m_Terrain.GetTileAt((int)_characterPosition.x, (int)_characterPosition.y).GetComponent<IInteractable>();
+    IInteractable _tileToInteract = WorldLoader.m_Terrain.GetTileAt((int)(_characterPosition.x + 0.5f), (int)(_characterPosition.y + 0.5f)).GetComponent<IInteractable>();
 
+    if (_tileToInteract != null)
+    {
+      _tileToInteract.Interact();
+    }
+    _tileToInteract = WorldLoader.m_Terrain.GetTileAt((int)(_characterPosition.x + 0.5f), (int)(_characterPosition.y + 1.5f)).GetComponent<IInteractable>();
     if (_tileToInteract != null)
     {
       _tileToInteract.Interact();
