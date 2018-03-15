@@ -76,7 +76,7 @@ public class CraftingPanel : Inventory
     }
     else
     {
-      Debug.LogError("Item with type: " + type + " does not exist!");
+      // Debug.LogError("Item with type: " + type + " does not exist!");
     }
   }
 

@@ -26,7 +26,7 @@ namespace Terrain.Data
       {
         for (int _y = 0; _y < m_Size; _y++)
         {
-          m_Tiles[_x + _y * ChunkData.m_Size] = new TileData(0);
+          m_Tiles[_x + _y * ChunkData.m_Size] = new TileData(TileType.Empty);
         }
       }
     }

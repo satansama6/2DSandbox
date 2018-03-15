@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using Terrain.Data;
 using UnityEngine;
@@ -129,6 +130,26 @@ namespace Terrain.Visuals
     //-----------------------------------------------------------------------------------------------------------//
 
     #region NeighbourTiles
+
+    public T Up<T>() where T : TileGOData
+    {
+      return Up().GetComponent<T>();
+    }
+
+    public T Right<T>() where T : TileGOData
+    {
+      return Right().GetComponent<T>();
+    }
+
+    public T Down<T>() where T : TileGOData
+    {
+      return Down().GetComponent<T>();
+    }
+
+    public T Left<T>() where T : TileGOData
+    {
+      return Left().GetComponent<T>();
+    }
 
     public TileGOData CheckNeighbour(int _x, int _y)
     {

@@ -31,6 +31,7 @@ public class CharacterController2D : PhysicsObject
 
   protected override void Update()
   {
+    // Debug.DrawLine(transform.position, transform.position + new Vector3(0, 0.1f, 0));
     base.Update();
     if (Input.GetMouseButton(0))
     {
